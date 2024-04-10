@@ -4848,4 +4848,4 @@ iptvbarata.com CNAME .
 ultraflix.cloud CNAME .
 ultraflix.net CNAME .
 vizer.club CNAME .
-youcine.to CNAdir
+youcine.to CNAME .
