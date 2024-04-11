@@ -4745,6 +4745,46 @@ xilften.love CNAME .
 xilften.in CNAME .
 
 
+
+canaistop.live CNAME .
+tvcanais.tv CNAME .
+tvcanais.com.br CNAME .
+noveflix.com CNAME .
+xonadostv.net CNAME .
+xonadosportvs.com CNAME .
+verfutebol.org CNAME .
+
+
+
+blueplay.fun CNAME .
+blueplay.site CNAME .
+lmdns.me CNAME .
+newbp.xyz CNAME .
+playerblue.me CNAME .
+canaistop.site CNAME .
+tv0800.pro CNAME .
+recargamfc.com.br CNAME .
+redplaypremium.com.br CNAME .
+tvexpressrecargaapp.pro CNAME .
+expressrecargaspro.com CNAME .
+recargaexpresstv.pro CNAME .
+tvecard.com CNAME .
+housetvprodigital.online CNAME .
+livetvpro.site CNAME .
+sspdigital.cc CNAME .
+pddweb.link CNAME .
+pddnet.link CNAME .
+x2.rs CNAME .
+pdsrv.io CNAME .
+portalfacil.net CNAME .
+portalcl.xyz CNAME .
+tvflix2.com CNAME .
+adorofilme.net CNAME .
+tyflexoficial.online CNAME .
+tyflex-oficial.online CNAME .
+
+
+
 1234movie.org CNAME .
 123movies.clinic CNAME .
 123movies.eu.com CNAME .
