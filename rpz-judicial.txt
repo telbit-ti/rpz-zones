@@ -256,7 +256,6 @@ tubidy.mobi CNAME .
 bestmp3converter.com CNAME .
 y2bs.com CNAME .
 dirpy.com CNAME .
-blaze.com CNAME .
 blaze-1.com CNAME .
 blaze-2.com CNAME .
 blaze-3.com CNAME .
