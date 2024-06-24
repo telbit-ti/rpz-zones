@@ -5664,3 +5664,10 @@ futemax.fi CNAME .
 futemax2.site CNAME .
 futemax.ph CNAME .
 megafilmeshd50.org CNAME .
+
+multicanais.ga CNAME .
+multicanais.gs CNAME .
+multi-canais.com CNAME .
+seriesflixbr.to CNAME .
+seriesflix.zip CNAME .
+oneflix.cfd CNAME .
