@@ -5671,3 +5671,46 @@ multi-canais.com CNAME .
 seriesflixbr.to CNAME .
 seriesflix.zip CNAME .
 oneflix.cfd CNAME .
+
+123movieshd.cyou CNAME .
+cuevana2.com.ph CNAME .
+cuevana33.online CNAME .
+cuevana3i.live CNAME .
+cuevana3io.pro CNAME .
+cuevana3s.org CNAME .
+cuevanalatino.net CNAME .
+filmeson.icu CNAME .
+bflixhd.to CNAME .
+flixhq.quest CNAME .
+pobreflixhd.red CNAME .
+overflix.sbs CNAME .
+overflix.uno CNAME .
+overflix.work CNAME .
+pelisplushd.art CNAME .
+vexpressbrasil.pro.br CNAME .
+ultraflix.lat CNAME .
+vizerhd.org CNAME .
+
+ocineflix.com CNAME .
+comandofilmesfree.tech CNAME .
+futebolplayhd.run CNAME .
+futeplayhd.xyz CNAME .
+loveflix.click CNAME .
+pobre.live CNAME .
+pobreflix.ca CNAME .
+pobreflix1.site CNAME .
+pobreflix2.art CNAME .
+topflix.digital CNAME .
+topflix.money CNAME .
+
+futebolaovivo.app CNAME .
+futebolplayhd.la CNAME .
+futebolplayhd.uk CNAME .
+futemax.pe CNAME .
+futemax.pet CNAME .
+futemax.pl CNAME .
+futemax.pm CNAME .
+futemax.fan CNAME .
+futemax.host CNAME .
+supertvaovivo.top CNAME .
+
