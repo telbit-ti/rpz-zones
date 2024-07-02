@@ -5714,3 +5714,12 @@ futemax.fan CNAME .
 futemax.host CNAME .
 supertvaovivo.top CNAME .
 
+assistirserieshd.online CNAME .
+megaflix.vc CNAME .
+multicanais.fi CNAME .
+multicanais.ws CNAME .
+superflix.fan CNAME .
+oneflix.online CNAME .
+oneflix.me CNAME .
+oneflix.lol CNAME .
+supertela.dev CNAME .
