@@ -5723,3 +5723,16 @@ oneflix.online CNAME .
 oneflix.me CNAME .
 oneflix.lol CNAME .
 supertela.dev CNAME .
+
+filmestorrents4k.com.br CNAME .
+filmeviatorrents.info CNAME .
+megafilmeshd1.live CNAME .
+megafilmeshd5.site CNAME .
+megafilmestorrentshd.site CNAME .
+seriesflix.gold CNAME .
+seriesflix.sh CNAME .
+superflix.movie CNAME .
+
+multicanais.life CNAME .
+multicanais.ms CNAME .
+
