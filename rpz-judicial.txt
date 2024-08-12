@@ -5736,3 +5736,26 @@ superflix.movie CNAME .
 multicanais.life CNAME .
 multicanais.ms CNAME .
 
+xfogo.io CNAME .
+asd13.cc CNAME .
+skia.io CNAME .
+skib.cc CNAME .
+appdns.online CNAME .
+hesrx.xyz CNAME .
+mpplay.com.br CNAME .
+comandofilmesplay.com CNAME .
+comandotorrentsgratishd.org CNAME .
+futemax.sbs CNAME .
+futemax.vg CNAME .
+mmfilmes.app CNAME .
+pobreflixbr.net CNAME .
+supertvaovivo.pro CNAME .
+topflix.llc CNAME .
+topflix.forum CNAME .
+unitv.life CNAME .
+
+supertvaovivo.pro CNAME .
+futemax.wf CNAME .
+futemax.diy CNAME .
+canaisplay.co CNAME .
+futemax1.run CNAME .
