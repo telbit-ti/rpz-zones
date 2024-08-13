@@ -5759,3 +5759,18 @@ futemax.wf CNAME .
 futemax.diy CNAME .
 canaisplay.co CNAME .
 futemax1.run CNAME .
+
+cinevision-2.net CNAME .
+filmestorrent2025.xyz CNAME .
+torrentflix.com.br CNAME .
+megafilmes.io CNAME .
+megafilmes.movie CNAME .
+megaflixtv.com.br CNAME .
+multicanais.bio CNAME .
+seriesflix.bar CNAME .
+seriesflix.cx CNAME .
+seriesflv1.online CNAME .
+superflixbr.info CNAME .
+
+multicanais.bio CNAME .
+multicanais.shop CNAME .
