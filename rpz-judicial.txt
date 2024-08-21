@@ -5774,3 +5774,21 @@ superflixbr.info CNAME .
 
 multicanais.bio CNAME .
 multicanais.shop CNAME .
+
+assistirfilmeshdgratis.si CNAME .
+baixatorrent.pro CNAME .
+gofilmes.movie CNAME .
+maxseries.biz CNAME .
+maxseries.lat CNAME .
+megaserie.live CNAME .
+pobreflix2.net CNAME .
+pobreflix.do CNAME .
+pobreflixfilmes.eu CNAME .
+pobreflix.food CNAME .
+pobrestv.net CNAME .
+pobretv.boutique CNAME .
+pobretv.kiwi CNAME .
+topflix.my CNAME .
+topflix.ltd CNAME .
+topflix-2.com CNAME .
+
