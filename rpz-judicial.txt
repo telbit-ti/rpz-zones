@@ -5819,3 +5819,15 @@ twitter.com CNAME .
 x.com CNAME .
 www.x.com CNAME .
 
+cinevise.net CNAME .
+masterfilmestorrent.com CNAME .
+blacktorrents.org CNAME .
+multicanais.bar CNAME .
+multicanais.sk CNAME .
+seriesflixtv2.me CNAME .
+serieflix.cc CNAME .
+xilften.rip CNAME .
+
+multicanais.green CNAME .
+multicanais.so CNAME .
+multicanais.tube CNAME .
