@@ -6594,7 +6594,7 @@ pelisplusvip.com CNAME .
 comandotorrentshd50.org CNAME .
 piratefilmes50.org CNAME .
 compreredplaybr.com CNAME .
-enviosredplay.agencia-ads.com. CNAME .
+enviosredplay.agencia-ads.com CNAME .
 familiaredplaybr.com CNAME .
 planosred.shop CNAME .
 planosredplay.com.br CNAME .
