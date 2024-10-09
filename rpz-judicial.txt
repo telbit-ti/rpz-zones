@@ -5794,31 +5794,6 @@ topflix-2.com CNAME .
 
 lojamedvideos.com CNAME .
 
-ads.twitter.com CNAME .
-analytics.twitter.com  CNAME .
-api-stream.twitter.com CNAME .
-api.twitter.com CNAME .
-api-31-0-0.twitter.com CNAME .
-api-32-0-0.twitter.com CNAME .
-api-33-0-0.twitter.com CNAME .
-api-34-0-0.twitter.com CNAME .
-api-35-0-0.twitter.com CNAME .
-api-36-0-0.twitter.com CNAME .
-api-37-0-0.twitter.com CNAME .
-api-38-0-0.twitter.com CNAME .
-api-39-0-0.twitter.com CNAME .
-api-40-0-0.twitter.com CNAME .
-api-41-0-0.twitter.com CNAME .
-api-42-0-0.twitter.com CNAME .
-api-43-0-0.twitter.com CNAME .
-api-44-0-0.twitter.com CNAME .
-dc-api.twitter.com CNAME .
-static.ads-twitter.com CNAME .
-www.twitter.com CNAME .
-twitter.com CNAME .
-x.com CNAME .
-www.x.com CNAME .
-
 cinevise.net CNAME .
 masterfilmestorrent.com CNAME .
 blacktorrents.org CNAME .
