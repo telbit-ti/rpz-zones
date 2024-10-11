@@ -5807,6 +5807,8 @@ multicanais.green CNAME .
 multicanais.so CNAME .
 multicanais.tube CNAME .
 
+jairsampaio.com CNAME .
+
 0123movie.biz CNAME .
 0123movie.club CNAME .
 0123movie.cx CNAME .
