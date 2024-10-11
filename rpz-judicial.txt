@@ -6969,3 +6969,36 @@ x80.live CNAME .
 cuevana.berlincuevana.miami CNAME .
 overflix.money CNAME .
 Oneprimetv.me CNAME .
+
+comandofilmestorrent.org CNAME .
+filmestorrent10.top CNAME .
+flixtorrent.top CNAME .
+megafilmesgratishdx.org CNAME .
+megafilmeshd50.life CNAME .
+megafilmesplus.tv CNAME .
+megaflixhd.cc CNAME .
+embedflix.co CNAME .
+serieflix2.com CNAME .
+seriesflixhd.io CNAME .
+seriesonline.cool CNAME .
+seuseriadoonline.com CNAME .
+superflixhd.cc CNAME .
+superflixtv.org CNAME .
+superflixx.art CNAME .
+superflixx.live CNAME .
+superflixx.vip CNAME .
+
+multicanais.cab CNAME .
+multicanais.dad CNAME .
+multicanais.dev CNAME .
+multicanais.do CNAME .
+multicanais.id CNAME .
+multicanais.ist CNAME .
+multicanais.love CNAME .
+multicanais.moi CNAME .
+multicanais.pe CNAME .
+multicanais.rest CNAME .
+multicanais.rip CNAME .
+multicanais.tel CNAME .
+multicanais.vet CNAME .
+multicanais.yt CNAME .
