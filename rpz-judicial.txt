@@ -7976,7 +7976,6 @@ br.magicred.com CNAME .
 br.melbet.com CNAME .
 br.mrplay.com CNAME .
 br.netbet.com CNAME .
-br.novibet.com CNAME .
 bros777.shop CNAME .
 brslots.net CNAME .
 brsport.net CNAME .
@@ -8758,7 +8757,6 @@ paraiso-777.com CNAME .
 paratysports.com CNAME .
 parazaobet.com CNAME .
 parisjogo.bet CNAME .
-partypoker.com CNAME .
 patopg.com CNAME .
 patria777.com CNAME .
 paxabet.com CNAME .
@@ -8812,7 +8810,6 @@ playbets.net.br CNAME .
 playpix.center CNAME .
 playsakura.com CNAME .
 play.sbobet.com CNAME .
-playuzu.com CNAME .
 plazaroyal.com CNAME .
 Pluma777.com CNAME .
 poapg.net CNAME .
@@ -9249,7 +9246,6 @@ xxxboi.com CNAME .
 xxxsports.bet CNAME .
 yasminpg.com CNAME .
 yeezypg.com CNAME .
-yogonet.com CNAME .
 yonexpg.com CNAME .
 youwin777.win CNAME .
 youwin.com CNAME .
