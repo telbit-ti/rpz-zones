@@ -9227,7 +9227,6 @@ wwbet.bet CNAME .
 wwccbet.com CNAME .
 www.bitstarz.com CNAME .
 www.cunbet6.com CNAME .
-www.flashscore.com.br CNAME .
 x10x10d.com CNAME .
 x1fortbet.net CNAME .
 x21.casino CNAME .
