@@ -7672,7 +7672,6 @@ apostador.net.br CNAME .
 apostamix.com CNAME .
 apostano.com CNAME .
 apostasbrazil.com.br CNAME .
-apostas.com CNAME .
 apostascomcassino.com CNAME .
 apostasnobrasil.net CNAME .
 apostavip.app CNAME .
@@ -8683,7 +8682,6 @@ nascerpg.com CNAME .
 navesbets.com CNAME .
 nbet91.com CNAME .
 neo.bet CNAME .
-netpix.bet CNAME .
 newsport.bet CNAME .
 ng987.bet CNAME .
 nike.sk CNAME .
@@ -8875,7 +8873,6 @@ rapwin.com CNAME .
 rbets.net CNAME .
 realbetbrasil.com CNAME .
 realimperador.bet CNAME .
-realsbet.com CNAME .
 recifepg.com CNAME .
 recifepg.vip CNAME .
 recsportspix.bet CNAME .
@@ -9129,7 +9126,6 @@ turbopg.com CNAME .
 turf7.com CNAME .
 turtle51.com CNAME .
 turtlety.com CNAME .
-tvbet.com CNAME .
 tvvpgs.com CNAME .
 twincasino.net CNAME .
 tygolfinho.com CNAME .
@@ -9158,7 +9154,6 @@ utbet2.com CNAME .
 uuu777win.com CNAME .
 uuuboi.bet CNAME .
 uwin.top CNAME .
-uxbet.com.br CNAME .
 v5-lewa.com CNAME .
 v77bet9.com CNAME .
 vai777.cc CNAME .
