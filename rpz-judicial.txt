@@ -9560,7 +9560,7 @@ playon.let77let.mov CNAME .
 smartpro.fun CNAME .
 techplaytv.click CNAME .
 youtubeuni.click CNAME .
-enviosredplay.agencia-ads.com. CNAME .
+enviosredplay.agencia-ads.com CNAME .
 planosred.com CNAME .
 recargaspremiumbrasil.com CNAME .
 redplaygso.com CNAME .
