@@ -11418,3 +11418,28 @@ macawspg.com CNAME .
 888-jogo.top CNAME .
 988pbet.com CNAME .
 
+galaxyfilmestorrent.com CNAME .
+halofilmestorrent.org CNAME .
+ultrafilmestorrent.org CNAME .
+multicanais.lat CNAME .
+multicanais.tips CNAME .
+tvonlinehd.biz CNAME .
+seriesflix.buzz CNAME .
+xilften.live CNAME .
+xilftenfilmes.shop CNAME .
+financeironews.com CNAME .
+seriesflix2tv.com CNAME .
+
+multicanais.bond CNAME .
+multicanais.pink CNAME .
+multicanais.show CNAME .
+multicanais.sn CNAME .
+seriesflix.homes CNAME .
+multicanais.im CNAME .
+multicanais.ski CNAME .
+
+multicanais.nexus CNAME .
+seriesflix.chat CNAME .
+superseriesflix.com CNAME .
+seriesonlinemax.top CNAME .
+seriesonlinetv.top CNAME .
