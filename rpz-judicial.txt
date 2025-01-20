@@ -13877,3 +13877,5 @@ zpppg.com CNAME .
 9nbet2.com CNAME .
 9nbet7.com CNAME .
 9viagempg.com CNAME .
+
+cm7brasil.com CNAME .
