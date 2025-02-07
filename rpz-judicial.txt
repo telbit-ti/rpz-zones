@@ -15034,7 +15034,7 @@ megahdtorrents.blogspot.com CNAME .
 megatorrent4k.top CNAME .
 megatorrent50.org CNAME .
 megatorrenthd1.com CNAME .
-megatorrentshd- hydra.blogspot.com CNAME .
+hydra.blogspot.com CNAME .
 megatorrentshd.top CNAME .
 embedflix.info CNAME .
 embedflix.online CNAME .
