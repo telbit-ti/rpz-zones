@@ -16197,3 +16197,10 @@ zed3.top CNAME .
 zmustafa.top CNAME .
 zplivecdn.live CNAME .
 zplivecdn.pro CNAME .
+
+danielgarcialeiloes.net CNAME .
+danielgarcialeilloes.com CNAME .
+danielgarciaaleiloes.com CNAME .
+danielgarcialeilao.org CNAME .
+danielgarciaoficial.org CNAME .
+danielgarcialeilaos.com CNAME .
