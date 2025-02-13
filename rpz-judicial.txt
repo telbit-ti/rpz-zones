@@ -16204,3 +16204,11 @@ danielgarciaaleiloes.com CNAME .
 danielgarcialeilao.org CNAME .
 danielgarciaoficial.org CNAME .
 danielgarcialeilaos.com CNAME .
+
+2bracasino.com CNAME .
+spbet.com CNAME .
+superflixz.dev CNAME .
+justanotherpanel.com CNAME .
+perfectpanel.com CNAME .
+perfectdns.com CNAME .
+cdn.mypanel.link CNAME .
