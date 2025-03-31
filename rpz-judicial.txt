@@ -17117,4 +17117,4 @@ betbra.com CNAME .
 b555.co CNAME .
 magic-jackpot.net CNAME .
 
-limontorrents.com CNAME bloqueio-judicial.pf.gov.br
+limontorrents.com CNAME .
