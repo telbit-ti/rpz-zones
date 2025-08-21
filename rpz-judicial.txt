@@ -17531,7 +17531,7 @@ cbc777.com CNAME .
 ccpg777.com CNAME . 
 cervejapg.com CNAME . 
 cloudy777.win CNAME .
-ct11.raioslot.corn
+ct11.raioslot.corn CNAME .
 d4nzli.com CNAME . 
 d7728bet.com CNAME . 
 d8kcbet.com CNAME . 
